@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="2" size="0.150000 0.111500" />
+    <ImageTarget name="summer" size="2.000000 1.486667" />
+    <ImageTarget name="summer-sessions" size="1.000000 0.743333" />
+    <ImageTarget name="summersession" size="0.150000 0.111500" />
+    <ImageTarget name="summersessions" size="300.000000 223.000000" />
+  </Tracking>
+</QCARConfig>
