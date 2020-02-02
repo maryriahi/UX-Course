@@ -1,7 +1,7 @@
 # UX-project
 # CSC-591-UX
 The following video shows the prototype of the project. 
-<div align=center><img width="600" src="https://github.ncsu.edu/mriahi2/UX-project/blob/master/ezgif-6-c27ea3c4dcad.gif"/></div>
+<div align=center><img width="600" src="https://github.com/maryriahi/UX-Course/blob/master/ezgif-6-c27ea3c4dcad.gif"/></div>
 
 ## Objective
 Everyone likes to play board games! But off-late people are choosing electronic games over physical games.
